@@ -1,4 +1,2 @@
 aaaa
 bbb
-ccc
-dddd
